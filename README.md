@@ -1,7 +1,6 @@
 # Hi there, it is short overview my projects 
 
-## Contacts
-sashamiller666@gmail.com \
+## Contact
 [linkedin](https://www.linkedin.com/in/alexander-shulga-631785190/)
 
 ### REST-API Testing
