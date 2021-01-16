@@ -1,8 +1,5 @@
 # Hi there, it is short overview my projects 
 
-## Contact
-[linkedin](https://www.linkedin.com/in/alexander-shulga-631785190/)
-
 ### REST-API (open source api) Testing
 [integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) — Languages: Go \
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) — Languages: Python \
