@@ -6,7 +6,7 @@
 [integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) — Languages: Go \
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) — Languages: Python
 
-### Develop apps and End2End Testing
+### Develop apps and End2End Testing them
 [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) — Languages: JavaScript \
 [unit-e2e-testing-mobile-app](https://github.com/SashaJson/unit-e2e-testing-mobile-app) — Languages: JavaScript \
  TODO [e2e-integration-testing-django-app](https://github.com/SashaJson/e2e-integration-testing-django-app) — Languages: Python \
