@@ -2,7 +2,7 @@
 
 ### REST-API (open source api) Testing
 [integration-testing-nasa-api](https://github.com/SashaJson/integration-testing-nasa-api) — Languages: JavaScript \
-[framework-for-integration-testing-star-wars-api](https://github.com/SashaJson/integration-testing-star-wars-api) — Languages: JavaScript \
+TODO [framework-for-integration-testing-star-wars-api](https://github.com/SashaJson/integration-testing-star-wars-api) — Languages: JavaScript \
 [integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) — Languages: Go \
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) — Languages: Python
 
