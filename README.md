@@ -14,7 +14,7 @@ TODO [framework-integration-testing-nasa-api](https://github.com/SashaJson/integ
  TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integration-testing-mean-app) — Languages: JavaScript 
 
 ### End2End and GUI Testing (open source apps)
-[automated-software-testing-with-puppeteer](https://github.com/SashaJson/automated-software-testing-with-puppeteer) — Languages: JavaScript \
+[automated-software-testing-with-puppeteer](https://github.com/SashaJson/automated-software-testing-with-puppeteer) repository has 2 project — Languages: JavaScript \
 TODO [automated-software-testing-with-cypress](https://github.com/SashaJson/automated-software-testing-with-cypress) — Languages: JavaScript \
 [gui-testing-reqres](https://github.com/SashaJson/gui-testing-reqres) — Languages: JavaScript 
 
