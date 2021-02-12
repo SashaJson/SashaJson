@@ -1,15 +1,15 @@
 # Hi there, it is short overview my projects 
 
+### End2End Testing (open source apps)
+[automated-software-testing-with-puppeteer](https://github.com/SashaJson/automated-software-testing-with-puppeteer) repository has 5 project — Languages: JavaScript \
+TODO [automated-software-testing-with-cypress](https://github.com/SashaJson/automated-software-testing-with-cypress) — Languages: JavaScript \
+[framework-for-end-to-end-tests-for-namecheap](https://github.com/SashaJson/end-to-end-tests-for-namecheap) — Languages: JavaScript
+
 ### REST-API (open source api) Testing
 TODO [framework-integration-testing-nasa-api](https://github.com/SashaJson/integration-testing-nasa-api) — Languages: JavaScript \
 [integration-testing-star-wars-api](https://github.com/SashaJson/integration-testing-star-wars-api) — Languages: JavaScript \
 [integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) — Languages: Go \
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) — Languages: Python
-
-### End2End Testing (open source apps)
-[automated-software-testing-with-puppeteer](https://github.com/SashaJson/automated-software-testing-with-puppeteer) repository has 4 project — Languages: JavaScript \
-TODO [automated-software-testing-with-cypress](https://github.com/SashaJson/automated-software-testing-with-cypress) — Languages: JavaScript \
-[framework-for-end-to-end-tests-for-namecheap](https://github.com/SashaJson/end-to-end-tests-for-namecheap) — Languages: JavaScript
 
 ### Develop apps and End2End Testing them
 [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) — Languages: JavaScript \
