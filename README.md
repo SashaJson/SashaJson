@@ -3,7 +3,8 @@
 ### End2End Testing (open source apps)
 [automated-software-testing-with-puppeteer](https://github.com/SashaJson/automated-software-testing-with-puppeteer) repository has 6 project — Languages: JavaScript \
 [ngx-cypress-test](https://github.com/SashaJson/ngx-cypress-test) — Languages: JavaScript \
-[framework-for-end-to-end-tests-for-namecheap](https://github.com/SashaJson/end-to-end-tests-for-namecheap) — Languages: JavaScript
+[framework-for-end-to-end-tests-for-namecheap](https://github.com/SashaJson/end-to-end-tests-for-namecheap) — Languages: JavaScript \
+[unit-e2e-testing-mobile-app](https://github.com/SashaJson/unit-e2e-testing-mobile-app) — Languages: JavaScript
 
 ### REST-API (open source api) Testing
 TODO [framework-integration-testing-nasa-api](https://github.com/SashaJson/integration-testing-nasa-api) — Languages: JavaScript \
@@ -13,7 +14,6 @@ TODO [framework-integration-testing-nasa-api](https://github.com/SashaJson/integ
 
 ### Develop apps and End2End Testing them
 [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) — Languages: JavaScript \
-[unit-e2e-testing-mobile-app](https://github.com/SashaJson/unit-e2e-testing-mobile-app) — Languages: JavaScript \
  TODO [e2e-integration-testing-django-app](https://github.com/SashaJson/e2e-integration-testing-django-app) — Languages: Python \
  TODO [e2e-integration-testing-flask-app ](https://github.com/SashaJson/e2e-integration-testing-flask-app) — Languages: Python \
  TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integration-testing-mean-app) — Languages: JavaScript 
