@@ -14,7 +14,7 @@ TODO [framework-integration-testing-nasa-api](https://github.com/SashaJson/integ
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) — Languages: Python
 
 ### Process automation
-[advanced-bash-automation](https://github.com/SashaJson/advanced-bash-automation) — Languages: Shell \
+[advanced-bash-automation](https://github.com/SashaJson/advanced-bash-automation) — Languages: Shell
 
 ### Develop apps and End2End Testing them
 [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) — Languages: JavaScript \
