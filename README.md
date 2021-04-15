@@ -19,6 +19,7 @@ TODO [framework-integration-testing-nasa-api](https://github.com/SashaJson/integ
 
 ### Develop apps and End2End Testing them
 [test-driven-development-unit-integratio](https://github.com/SashaJson/test-driven-development-unit-integratio) — Languages: JavaScript \
+[automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) — Languages: JavaScript \
 TODO [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) — Languages: JavaScript \
 TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integration-testing-mean-app) — Languages: JavaScript 
 
