@@ -34,8 +34,5 @@ TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integra
 ### Games
 TODO [2d-shooting-game](https://github.com/SashaJson/2d-shooting-game) — Languages: Python 
 
-### Chats
-[full-stack-chat](https://github.com/SashaJson/full-stack-chat) — Languages: JavaScript, Vue 
-
 ### Other
 [voice-activated-assistant](https://github.com/SashaJson/voice-activated-assistant) — Languages: Python 
