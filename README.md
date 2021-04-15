@@ -31,7 +31,7 @@ TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integra
 [wrapper-spacex-api](https://github.com/SashaJson/wrapper-spacex-api) — Languages: JavaScript 
 
 ### Games
-[2d-shooting-game](https://github.com/SashaJson/2d-shooting-game) — Languages: Python 
+TODO [2d-shooting-game](https://github.com/SashaJson/2d-shooting-game) — Languages: Python 
 
 ### Chats
 [full-stack-chat](https://github.com/SashaJson/full-stack-chat) — Languages: JavaScript, Vue 
