@@ -31,8 +31,5 @@ TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integra
 [wrapper-pokemon-api](https://github.com/SashaJson/wrapper-pokemon-api) — Languages: JavaScript \
 [wrapper-spacex-api](https://github.com/SashaJson/wrapper-spacex-api) — Languages: JavaScript 
 
-### Games
-TODO [2d-shooting-game](https://github.com/SashaJson/2d-shooting-game) — Languages: Python 
-
 ### Other
 [voice-activated-assistant](https://github.com/SashaJson/voice-activated-assistant) — Languages: Python 
