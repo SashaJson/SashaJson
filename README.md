@@ -8,6 +8,7 @@
 [unit-e2e-testing-mobile-app](https://github.com/SashaJson/unit-e2e-testing-mobile-app) — Languages: JavaScript
 
 ### REST-API (open source api) Testing
+[framework-for-automation-integration-testing-petstore](https://github.com/SashaJson/framework-for-automation-integration-testing-petstore) — Languages: TypeScript \
 TODO [framework-integration-testing-nasa-api](https://github.com/SashaJson/integration-testing-nasa-api) — Languages: JavaScript \
 [integration-testing-star-wars-api](https://github.com/SashaJson/integration-testing-star-wars-api) — Languages: JavaScript \
 [integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) — Languages: Go \
