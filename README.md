@@ -20,7 +20,7 @@ TODO [framework-for-automation-integration-testing-star-wars-api](https://github
 
 ### Develop apps and End2End Testing them
 [test-driven-development-unit-integration](https://github.com/SashaJson/test-driven-development-unit-integration) — Languages: JavaScript \
-[automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) — Languages: JavaScript \
+[automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) Angular deprecated Protractor :( — Languages: JavaScript \
 TODO [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) — Languages: JavaScript \
 TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integration-testing-mean-app) — Languages: JavaScript 
 
