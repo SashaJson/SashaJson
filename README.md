@@ -19,17 +19,17 @@ Languages: Go \
 Languages: Python \
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api)
 
-### Process automation
-Languages: Shell && JavaScript \
-[advanced-bash-automation](https://github.com/SashaJson/advanced-bash-automation) \
-[automate-daily-tasks-with-bash](https://github.com/SashaJson/automate-daily-tasks-with-bash)
-
 ### Develop apps and End2End Testing them
 Languages: JavaScript \
 [test-driven-development-unit-integration](https://github.com/SashaJson/test-driven-development-unit-integration) \
 [automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) Angular deprecated Protractor :( \
 TODO [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) \
 TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integration-testing-mean-app) 
+
+### Process automation
+Languages: Shell && JavaScript \
+[advanced-bash-automation](https://github.com/SashaJson/advanced-bash-automation) \
+[automate-daily-tasks-with-bash](https://github.com/SashaJson/automate-daily-tasks-with-bash)
 
 ### Develop Full Stack Apps
 Languages: JavaScript \
