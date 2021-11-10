@@ -12,7 +12,7 @@ Languages: JavaScript \
 Languages: TypeScript \
 [framework-for-automation-integration-testing-petstore-api](https://github.com/SashaJson/framework-for-automation-integration-testing-petstore-api) \
 Languages: JavaScript \
-TODO [framework-for-automation-integration-testing-nasa-api](https://github.com/SashaJson/framework-for-automation-integration-testing-nasa-api) \
+[framework-for-automation-integration-testing-nasa-api](https://github.com/SashaJson/framework-for-automation-integration-testing-nasa-api) \
 TODO [framework-for-automation-integration-testing-star-wars-api](https://github.com/SashaJson/framework-for-automation-integration-testing-star-wars-api) \
 Languages: Go \
 [integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) \
