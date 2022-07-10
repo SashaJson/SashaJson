@@ -17,8 +17,8 @@ TODO [framework-for-automation-integration-testing-star-wars-api](https://github
 Languages: Go \
 [integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) \
 Languages: Python \
-[integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) \
-[playgrount-learn-qa-automation-api](https://github.com/SashaJson/playgrount-learn-qa-automation-api)
+[playgrount-learn-qa-automation-api](https://github.com/SashaJson/playgrount-learn-qa-automation-api) \
+[integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api)
 
 ### Develop apps and End2End Testing them
 Languages: JavaScript \
