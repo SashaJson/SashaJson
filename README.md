@@ -23,7 +23,7 @@ Languages: Python \
 ### Develop apps and End2End Testing them
 Languages: JavaScript \
 [test-driven-development-unit-integration](https://github.com/SashaJson/test-driven-development-unit-integration) \
-[automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) Angular deprecated Protractor :( \
+[automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) Angular deprecated Protractor :(
 
 ### Process automation
 Languages: Shell && JavaScript \
