@@ -24,8 +24,6 @@ Languages: Python \
 Languages: JavaScript \
 [test-driven-development-unit-integration](https://github.com/SashaJson/test-driven-development-unit-integration) \
 [automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) Angular deprecated Protractor :( \
-TODO [e2e-integration-testing-mern-app](https://github.com/SashaJson/e2e-integration-testing-mern-app) \
-TODO [e2e-integration-testing-mean-app](https://github.com/SashaJson/e2e-integration-testing-mean-app) 
 
 ### Process automation
 Languages: Shell && JavaScript \
