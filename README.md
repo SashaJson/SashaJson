@@ -10,39 +10,39 @@ Languages: JavaScript \
 
 ### REST-API (open source api) Testing
 Languages: TypeScript \
-[framework-for-automation-integration-testing-petstore-api](https://github.com/SashaJson/framework-for-automation-integration-testing-petstore-api) \
+[framework-for-automation-integration-testing-petstore-api](https://github.com/SashaJson/framework-for-automation-integration-testing-petstore-api) - last commit on Sep 13, 2021 \
 Languages: JavaScript \
-[framework-for-automation-integration-testing-nasa-api](https://github.com/SashaJson/framework-for-automation-integration-testing-nasa-api) \
-TODO [framework-for-automation-integration-testing-star-wars-api](https://github.com/SashaJson/framework-for-automation-integration-testing-star-wars-api) \
+[framework-for-automation-integration-testing-nasa-api](https://github.com/SashaJson/framework-for-automation-integration-testing-nasa-api) - on Apr 24, 2022 \
+TODO [framework-for-automation-integration-testing-star-wars-api](https://github.com/SashaJson/framework-for-automation-integration-testing-star-wars-api) - last commit on Nov 9, 2021 \
 Languages: Go \
-[integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) \
+[integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) - last commit on Nov 29, 2020 \
 Languages: Python \
 [playgrount-qa-automation-api](https://github.com/SashaJson/playgrount-qa-automation-api) \
-[integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api)
+[integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) - last commit on Jan 21, 2021
 
 ### Develop apps and End2End Testing them
 Languages: JavaScript \
-[test-driven-development-unit-integration](https://github.com/SashaJson/test-driven-development-unit-integration) \
-[automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) Angular deprecated Protractor :(
+[test-driven-development-unit-integration](https://github.com/SashaJson/test-driven-development-unit-integration) - last commit on Oct 17, 2021 \
+[automation-testing-with-protractor](https://github.com/SashaJson/automation-testing-with-protractor) Angular deprecated Protractor :( - last commit on Aug 8, 2021
 
 ### Process automation
 Languages: Shell && JavaScript \
-[advanced-bash-automation](https://github.com/SashaJson/advanced-bash-automation) \
-[automate-daily-tasks-with-bash](https://github.com/SashaJson/automate-daily-tasks-with-bash)
+[advanced-bash-automation](https://github.com/SashaJson/advanced-bash-automation) - last commit on Apr 14, 2021 \
+[automate-daily-tasks-with-bash](https://github.com/SashaJson/automate-daily-tasks-with-bash) - last commit on May 15, 2022
 
 ### Develop Full Stack Apps
 Languages: JavaScript \
-[full-stack-app-node-mongo](https://github.com/SashaJson/full-stack-app-node-mongo) \
-[full-stack-app](https://github.com/SashaJson/full-stack-app)
+[full-stack-app-node-mongo](https://github.com/SashaJson/full-stack-app-node-mongo) - last commit on Aug 19, 2021 \
+[full-stack-app](https://github.com/SashaJson/full-stack-app) - last commit on Jan 22, 2021
 
 ### Develop Wrappers
 Languages: JavaScript \
-[wrapper-pokemon-api](https://github.com/SashaJson/wrapper-pokemon-api) \
-[wrapper-spacex-api](https://github.com/SashaJson/wrapper-spacex-api)
+[wrapper-pokemon-api](https://github.com/SashaJson/wrapper-pokemon-api) - last commit on Jan 27, 2021 \
+[wrapper-spacex-api](https://github.com/SashaJson/wrapper-spacex-api) - last commit on Jan 27, 2021
 
 ### Other
 Languages: Python \
-[voice-activated-assistant](https://github.com/SashaJson/voice-activated-assistant) 
+[voice-activated-assistant](https://github.com/SashaJson/voice-activated-assistant) - last commit on Jan 21, 2021
 
 
 # I like books such as:
