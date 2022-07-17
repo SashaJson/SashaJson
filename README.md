@@ -2,7 +2,7 @@
 
 ### End2End Testing (open source apps)
 Languages: JavaScript \
-[automated-software-testing-with-puppeteer](https://github.com/SashaJson/automated-software-testing-with-puppeteer) repository has 6 projects \
+[automated-software-testing-with-puppeteer](https://github.com/SashaJson/automated-software-testing-with-puppeteer) repository has 6 projects - last commit on Feb 15, 2021 \
 [ngx-cypress-automation-test](https://github.com/SashaJson/ngx-cypress-automation-test) \
 [angular-realworld-example-app-cypress-automation-test](https://github.com/SashaJson/angular-realworld-example-app-cypress-automation-test) \
 [framework-for-end-to-end-tests-for-namecheap](https://github.com/SashaJson/end-to-end-tests-for-namecheap)\
