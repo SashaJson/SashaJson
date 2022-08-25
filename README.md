@@ -15,7 +15,7 @@ Languages: JavaScript \
 [framework-for-automation-integration-testing-nasa-api](https://github.com/SashaJson/framework-for-automation-integration-testing-nasa-api) - on Apr 24, 2022 \
 TODO [framework-for-automation-integration-testing-star-wars-api](https://github.com/SashaJson/framework-for-automation-integration-testing-star-wars-api) - last commit on Nov 9, 2021 \
 Languages: Go \
-[integration-testing-zippopotam.us-api](https://github.com/SashaJson/integration-testing-zippopotam.us-api) - last commit on Nov 29, 2020 \
+
 Languages: Python \
 [playgrount-qa-automation-api](https://github.com/SashaJson/playgrount-qa-automation-api) - last commit on Jul 28, 2022 \
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api) - last commit on Jan 21, 2021
