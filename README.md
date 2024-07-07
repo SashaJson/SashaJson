@@ -19,7 +19,8 @@ Languages: Python \
 [integration-testing-restful-booker-api](https://github.com/SashaJson/integration-testing-restful-booker-api)
 
 ### Develop apps and End2End Testing them
-Languages: JavaScript \
+Languages: JavaScript \ 
+[MERN-docker-with-tests](https://github.com/SashaJson/MERNDockerWithTests) \
 [test-driven-development-unit-integration](https://github.com/SashaJson/test-driven-development-unit-integration) \
 
 ### Process automation
